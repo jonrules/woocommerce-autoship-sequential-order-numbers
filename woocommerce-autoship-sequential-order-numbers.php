@@ -3,7 +3,7 @@
 Plugin Name: WC Auto-Ship Sequential Order Numbers
 Plugin URI: http://patternsinthecloud.com
 Description: Extends WooCommerce Sequential Order Numbers Pro for compatibility with WC Auto-Ship.
-Version: 1.0
+Version: 1.0.1
 Author: Patterns in the Cloud
 Author URI: http://patternsinthecloud.com
 License: Single-site
